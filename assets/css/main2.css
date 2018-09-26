@@ -2,9 +2,27 @@
     padding-bottom: 0px;
 }
 
+#header header {
+    padding-bottom: 0px;
+}
+
 #profile-pic {
     width: 500px;
     margin-top: 25px;
 	border: 1px solid black;
 	/* box-shadow: 3px 3px 0px 0px rgba(0, 0, 0, 0.4); */
+}
+
+#icons div {
+    
+}
+
+#icons {
+    padding-top: 16px;
+}
+
+#icons a {
+    text-decoration: none;
+    font-size: 200%;
+
 }

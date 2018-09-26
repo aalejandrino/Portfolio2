@@ -219,6 +219,7 @@ input, select, textarea {
 /* Container */
 
 	.container {
+
 		margin: 0 auto;
 		max-width: 100%;
 		width: 1140px;
@@ -303,6 +304,7 @@ input, select, textarea {
 
 		.row > .col-3 {
 			width: 25%;
+			overflow: hidden;
 		}
 
 		.row > .off-3 {
