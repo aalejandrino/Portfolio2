@@ -1819,9 +1819,9 @@ input, select, textarea {
 			content: '';
 			display: block;
 			position: absolute;
-			top: -9em;
+			top: -9.45em;
 			left: 50%;
-			height: 9em;
+			height: 9.45em;
 			border-left: solid 1px #fff;
 		}
 
