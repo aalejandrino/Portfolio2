@@ -2135,9 +2135,9 @@ input, select, textarea {
 			content: '';
 			display: block;
 			position: absolute;
-			top: -4.5em;
+			top: -5.1em;
 			left: 50%;
-			height: 4.5em;
+			height: 5.1em;
 			border-left: solid 1px #fff;
 		}
 
@@ -2167,7 +2167,7 @@ input, select, textarea {
 		}
 
 /* Poptrox */
-
+/* 
 	.poptrox-popup {
 		-moz-box-sizing: content-box;
 		-webkit-box-sizing: content-box;
@@ -2299,7 +2299,7 @@ input, select, textarea {
 
 			.poptrox-popup:hover .closer:hover {
 				opacity: 1.0;
-			}
+			} */
 
 /* Wide */
 

@@ -27,6 +27,58 @@
 
 }
 
-#resume {
-
+.resume object {
+    margin-top: 100px;
 }
+
+
+		.box.style4 {
+			text-align: center;
+		}
+
+			.box.style4 header {
+				display: inline-block;
+				background: #fff;
+				padding: 2em 3em 2em 3em;
+				margin: 0;
+				box-shadow: 1px 1px black;
+			}
+
+				.box.style4 header p {
+					padding: 0;
+				}
+
+			.box.style4 .inner {
+				position: relative;
+				padding: 0px 0 0px 0;
+			}
+
+				.box.style4 .inner:after {
+					content: '';
+					display: block;
+					position: absolute;
+					top: 0;
+					left: 50%;
+					height: 7.9%;
+					border-left: solid 1px #fff;
+				}
+
+				.box.style4 .inner .row {
+					position: relative;
+				}
+
+					.box.style4 .inner .row:before {
+						content: '';
+						display: block;
+						position: absolute;
+						top: 50%;
+						left: 20px;
+						width: calc(100% - 40px);
+						border-bottom: solid 1px #fff;
+					}
+
+				.box.style4 .inner .image {
+					position: relative;
+					z-index: 1;
+					padding: 20px;
+				}
